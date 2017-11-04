@@ -1,0 +1,2 @@
+zawartosc pliku 1.txt
+zmiana wykonana przez Micha³a.
